@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @phc3_
-- 👀 I’m interested in I'm interested in learning more and more about codes, and making new friends. Hope you like it :)
+- 👀 I'm interested in learning more and more about codes, and making new friends. Hope you like it :)
 - 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
